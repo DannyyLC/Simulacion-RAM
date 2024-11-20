@@ -18,7 +18,7 @@ Representacion de como funcionan los ajustes (mejor, peor y primero).
 Código modular: Fácil de entender y extender.
 
 ### Tecnologías utilizadas
-Lenguaje: Python
+Lenguaje: Python <br>
 Librerias: PyQT5
 
 ### Objetivo educativo
