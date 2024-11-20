@@ -1,0 +1,41 @@
+QLabel {
+    color: white;
+    font: Arial;
+    font-size: 16px;
+}
+
+#label_titulo_reporte{
+    font-weight : bold;
+    color: white;
+    font-size: 26px; 
+}
+
+#label_titulo{
+    font-weight: bold;
+    font-size: 30px;
+}
+
+#label_slot1{
+    font-weight: bold;
+    font-size: 24px;    
+}
+
+#label_slot2{
+    font-weight: bold;
+    font-size: 24px;
+}
+
+#label_queue_titulo{
+    font-weight: bold;
+    font-size: 24px;
+}
+
+#label_modo{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#label_acciones{
+    font-size: 18px;
+    font-weight: bold;
+}

@@ -1,0 +1,18 @@
+.QComboBox{
+    border: 2px solid white;
+    border-radius: 5px; /* Opcional: esto redondea las esquinas */
+    padding: 5px;
+    color: white;
+    background-color: black; 
+    font: Arial;
+    font-size: 16px;
+}
+
+QComboBox QAbstractItemView {
+    color: white; /* Color de texto en el menú desplegable */
+    background-color: black; /* Fondo en el menú desplegable */
+    border: 2px solid white;
+    font: Arial;
+    font-size: 16px;
+    border-radius: 5px; /* Opcional: esto redondea las esquinas */
+}

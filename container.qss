@@ -1,0 +1,6 @@
+#contenedor{
+    border: 2px yellow;
+    background-color : #202020;
+    border-radius: 5px; /* Opcional: redondea las esquinas */
+    padding: 10px;
+}
